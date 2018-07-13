@@ -1,0 +1,11 @@
+.About h2 {
+}
+
+.Experience {
+  border: 1px solid #c8c8c8;
+  background-color: #ffffff;
+  width: 80%;
+  margin: 0 auto;
+  color: #5c5c5c;
+  padding: 20px;
+}

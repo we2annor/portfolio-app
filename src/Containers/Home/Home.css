@@ -1,0 +1,44 @@
+.Home {
+  margin: 0 auto;
+  border: 1px solid red;
+}
+
+.Board {
+  display: inline-block;
+  width: 31.3%;
+  height: 100px;
+  text-align: center;
+  padding: 30px 10px;
+  margin: 20px 0;
+}
+
+.boardContainer {
+  height: 100%;
+  position: relative;
+
+}
+
+.Board .title {
+  display: inline-block;
+
+  top: 0;
+  left: 70px;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+
+.title h2 {
+  margin: 2px;
+  font-size: 2em;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.Board  h1 {
+  display: inline-block;
+  position: relative;
+  top: -40px;
+  left: -10px;
+  border-top: 3px solid white;
+  letter-spacing: 2px;
+}
